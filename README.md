@@ -13,7 +13,7 @@ I build and scale production Angular apps for consumer platforms with **millions
 | Product | What it is |
 | --- | --- |
 | **Ana Vodafone App** | One of Egypt's most widely used telecom apps |
-| [**FilGoal**](https://filgoal.com/) | Leading Arabic sports news platform |
+| [**FilGoal**](https://filgoal.com/) | Leading Arabic sports news platform used by millions of users across Egypt and the region |
 | [**Fantasy EPL**](https://fantasy.filgoal.com/) & [**Fantasy South Africa**](https://filgoalfantasymzansi.com/) | Fantasy football games |
 | **Sports Engine CMS** | Real-time sports data and content management |
 | [**FilFan**](https://www.filfan.com/) · **Sada El Balad** · [**Al-Masry El Youm**](https://www.almasryalyoum.com/) | Major Egyptian news and entertainment publishers |
@@ -42,7 +42,7 @@ I own client projects from scoping and architecture through build, deployment an
 - 🇩🇪 **FAW 4 YOU**: multilingual (AR/DE/EN) ASP.NET Core MVC platform for German course bookings, with Paymob payments and a CMS.
 - 🛒 **TriskySport**: Angular Shopify admin dashboard with sales, stock, ROI and margin analytics and CSV export.
 - 🩺 [**FcDiabetic**](https://icanqatar.com/): diabetes-tracking web app (Qatar).
-- 📋 **Educators Dashboard**: Angular admin with complaints management, advanced filtering and bulk multi-sheet Excel import for large member datasets.
+- 📋 **Educators Syndicate Dashboard**: Angular admin with complaints management, advanced filtering and bulk multi-sheet Excel import for large member datasets.
 
 ## 🛠️ Tech Stack
 
@@ -127,13 +127,6 @@ I own client projects from scoping and architecture through build, deployment an
 - 🎓 Postgraduate Diploma in Computer Science, **Cairo University** (in progress)
 - 🎓 Full-Stack Development Diploma, **Route Academy**
 - 🎓 BSc Commerce, **Cairo University**
-
-## 📈 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karimarafa66&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimarafa66&layout=compact&hide_border=true" alt="Top languages" />
-</p>
 
 ## 📫 Let's Connect
 
