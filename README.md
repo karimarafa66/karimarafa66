@@ -123,7 +123,7 @@ I own client projects from scoping and architecture through build, deployment an
 - **Sarmady (Vodafone Egypt)**: Senior Frontend Developer, 2025 to present
 - **Huawei Technologies**: Software Engineer, 2024 to 2025 (JavaScript backend services over REST/SOAP, ETL and BDI pipelines, Angular support)
 - **Egicat**: IT Specialist & Web Developer, 2022 to 2023
-- **Freelance**: Web Developer, 2022 to present
+- **Freelance**: Web Developer, 2021 to present
 - 🎓 Postgraduate Diploma in Computer Science, **Cairo University** (in progress)
 - 🎓 Full-Stack Development Diploma, **Route Academy**
 - 🎓 BSc Commerce, **Cairo University**
